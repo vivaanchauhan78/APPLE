@@ -1,13 +1,15 @@
-# APPLE
+![image](https://github.com/user-attachments/assets/0b78b23b-de87-41b2-924d-a7d4d2369d47)# APPLE
 So this is Apple, a PCB with 2 LEDs, resistors, and it is named Apple because all of my projects are named after a fruit!
 BOM
-	Sourced	Placed	References	Value	Footprint	Quantity
 1			R1, R2	R	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	2
 2			D1, D2	LED	LED_D5.0mm	2
-3			BT1	Battery_Cell	BatteryHolder_Keystone_3034_1x20mm	1
+3			SW1, SW2	SW_Push	SW_PUSH_6mm	2
+4			BT1	Battery_Cell	BatteryHolder_Keystone_3034_1x20mm	1
+5			M1	Motor_DC	PinHeader_1x02_P2.54mm_Vertical	1
 
-![image](https://github.com/user-attachments/assets/32d28d56-a92b-47a0-8ef3-9bff177c1866)
-![image](https://github.com/user-attachments/assets/aeb23901-9465-4105-8938-7ca506bbab02)
-![image](https://github.com/user-attachments/assets/611556eb-0df6-49d6-9a51-bd0c9ec22f08)
-![image](https://github.com/user-attachments/assets/c497c1be-165a-4e58-888a-d37acb1b2148)
+
+![image](https://github.com/user-attachments/assets/7276c501-92f1-4ff3-b4e5-308e11a099ce)
+![image](https://github.com/user-attachments/assets/913f93cd-e678-409b-a331-1a375b910cc3)
+![image](https://github.com/user-attachments/assets/d435320b-fc78-42e2-81fc-b716eb873c38)
+
 made by @david
