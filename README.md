@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/0b78b23b-de87-41b2-924d-a7d4d2369d47)# APPLE
 So this is Apple, a PCB with 2 LEDs, resistors, and it is named Apple because all of my projects are named after a fruit!
 BOM
+
+
 1			R1, R2	R	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	2
 2			D1, D2	LED	LED_D5.0mm	2
 3			SW1, SW2	SW_Push	SW_PUSH_6mm	2
