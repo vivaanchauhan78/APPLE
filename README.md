@@ -10,7 +10,6 @@ BOM
 5			M1	Motor_DC	PinHeader_1x02_P2.54mm_Vertical	1
 
 
-![image](https://github.com/user-attachments/assets/913f93cd-e678-409b-a331-1a375b910cc3)
 ![image](https://github.com/user-attachments/assets/bce43714-6f2f-41b9-bd3d-c22a7550e652)
 ![image](https://github.com/user-attachments/assets/b7653616-c3ed-4f25-8b86-9788e55537e3)
 made by @david
